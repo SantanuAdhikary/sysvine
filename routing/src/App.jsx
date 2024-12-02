@@ -9,6 +9,8 @@ import Contact from './components/Contact'
 import Error from './components/Error'
 import Navbar from './components/Navbar'
 
+// import './App.css'
+
 const App = () => {
   return (
     <>
